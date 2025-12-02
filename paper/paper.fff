@@ -1,0 +1,14 @@
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{../tasks/create_alderman_strictness_scores/output/Month_FEs_final_strictness_index.pdf}
+    \caption{Aldermanic Strictness Scores}
+    \label{fig:aldermanic_strictness_scores}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{../tasks/strictness_score_map/output/strictness_score_map_2025-01.pdf}
+    \caption{Aldermanic Strictness Scores}
+    \label{fig:alderman_strictness_map}
+\end{figure}
